@@ -11,9 +11,9 @@ def minor(mx,i,j) :
     sign = (-1) ** (i+j)
     return sign * (mx[0][0]*mx[i+1][j+1] - mx[0][j+1]*mx[i+1][0]) 
 
-def _det(A, n, D) :
+def det(A, n) :
     if n == 2:
-        return (minor(A,0,0) / D)
+        return minor(A,0,0)
 
     # needed for the case when lines were swapped
     sign = 1
@@ -31,10 +31,8 @@ def _det(A, n, D) :
             line.append(minor(A,i,j))
         B.append(line)
 
-    return sign * _det(B,n-1,D*A[0][0]**(n-2))
+    return sign * det(B,n-1) // A[0][0]**(n-2)
 
-def det(mx) :
-    return _det(mx, len(mx), 1)
 
 # MAIN
 
@@ -47,8 +45,8 @@ matrix.append(line)
 for i in range(n-1) :
     matrix.append(list(eval(input())))
 
-#print('{0:.2f}'.format(det(matrix)))
+print(det(matrix,n))
 
 
-import numpy
-print('{0:.2f}'.format(numpy.linalg.det(numpy.array(matrix))))
+#import numpy
+#print('{0:.2f}'.format(numpy.linalg.det(numpy.array(matrix))))
