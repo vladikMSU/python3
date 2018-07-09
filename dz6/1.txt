@@ -1,0 +1,602 @@
+{
+    "indian": [
+        "silicon",
+        "liberal",
+        "gsm",
+        "wise"
+    ],
+    "silicon": [
+        "indian",
+        "rough",
+        "ohio",
+        "serial"
+    ],
+    "howard": [
+        "park",
+        "costa",
+        "rebate",
+        "tion"
+    ],
+    "park": [
+        "howard",
+        "journal",
+        "pac",
+        "cyprus"
+    ],
+    "hints": [
+        "gadgets",
+        "object",
+        "fault",
+        "made"
+    ],
+    "gadgets": [
+        "hints",
+        "rod",
+        "made",
+        "forming"
+    ],
+    "aaron": [
+        "spaces",
+        "corner",
+        "video",
+        "cove"
+    ],
+    "spaces": [
+        "aaron",
+        "bend",
+        "parents",
+        "tribe"
+    ],
+    "reid": [
+        "boston",
+        "wise",
+        "kind",
+        "ship"
+    ],
+    "boston": [
+        "reid",
+        "ship",
+        "deluxe",
+        "dover"
+    ],
+    "dover": [
+        "export",
+        "rough",
+        "martha",
+        "boston"
+    ],
+    "export": [
+        "dover",
+        "locally",
+        "suits",
+        "tribe"
+    ],
+    "ideal": [
+        "fotos",
+        "fault",
+        "levy",
+        "muscles"
+    ],
+    "fotos": [
+        "ideal",
+        "ears",
+        "made",
+        "solaris"
+    ],
+    "button": [
+        "school",
+        "joint",
+        "firms",
+        "disable"
+    ],
+    "school": [
+        "button",
+        "sec",
+        "eng",
+        "daisy"
+    ],
+    "sega": [
+        "since",
+        "lending",
+        "tion",
+        "scratch"
+    ],
+    "since": [
+        "sega",
+        "geo",
+        "disable",
+        "burns"
+    ],
+    "journal": [
+        "park",
+        "pac",
+        "serial",
+        "menus"
+    ],
+    "tion": [
+        "back",
+        "sega",
+        "pac",
+        "cove",
+        "howard",
+        "voting"
+    ],
+    "back": [
+        "tion",
+        "unified",
+        "undo",
+        "rod"
+    ],
+    "float": [
+        "ship",
+        "framing",
+        "char"
+    ],
+    "ship": [
+        "float",
+        "solaris",
+        "boston",
+        "reid"
+    ],
+    "philip": [
+        "feb",
+        "unified",
+        "burns",
+        "cancer"
+    ],
+    "feb": [
+        "philip",
+        "basics",
+        "ears"
+    ],
+    "unified": [
+        "philip",
+        "jar",
+        "back",
+        "cancer"
+    ],
+    "lending": [
+        "sega",
+        "suits",
+        "serial",
+        "pest"
+    ],
+    "fault": [
+        "ideal",
+        "hints",
+        "brands",
+        "ohio"
+    ],
+    "pac": [
+        "park",
+        "deluxe",
+        "tion",
+        "liberal",
+        "tribe",
+        "journal"
+    ],
+    "joint": [
+        "button",
+        "throw",
+        "kind",
+        "undo"
+    ],
+    "firms": [
+        "button",
+        "cut",
+        "printed",
+        "penalty"
+    ],
+    "geo": [
+        "since",
+        "framing",
+        "disable",
+        "jar"
+    ],
+    "cyprus": [
+        "gsm",
+        "refers",
+        "locally",
+        "park"
+    ],
+    "gsm": [
+        "cyprus",
+        "bend",
+        "indian",
+        "rebate"
+    ],
+    "cancer": [
+        "throw",
+        "ohio",
+        "unified",
+        "philip"
+    ],
+    "throw": [
+        "cancer",
+        "joint",
+        "corner",
+        "pest"
+    ],
+    "optics": [
+        "penalty",
+        "defines",
+        "martha",
+        "votes"
+    ],
+    "penalty": [
+        "optics",
+        "votes",
+        "undo",
+        "firms"
+    ],
+    "basics": [
+        "feb",
+        "cove",
+        "sec"
+    ],
+    "wise": [
+        "martha",
+        "reid",
+        "char",
+        "indian"
+    ],
+    "martha": [
+        "wise",
+        "forming",
+        "dover",
+        "optics"
+    ],
+    "rod": [
+        "gadgets",
+        "kind",
+        "object",
+        "back"
+    ],
+    "rough": [
+        "dover",
+        "silicon",
+        "tulsa",
+        "brands"
+    ],
+    "jar": [
+        "unified",
+        "video",
+        "solaris",
+        "geo"
+    ],
+    "framing": [
+        "float",
+        "geo",
+        "expect",
+        "malta"
+    ],
+    "expect": [
+        "steve",
+        "framing",
+        "holy",
+        "corner"
+    ],
+    "steve": [
+        "expect",
+        "pest",
+        "brands",
+        "tobacco"
+    ],
+    "forming": [
+        "martha",
+        "serial",
+        "sparc",
+        "gadgets"
+    ],
+    "locally": [
+        "votes",
+        "export",
+        "cyprus",
+        "rubber"
+    ],
+    "votes": [
+        "locally",
+        "penalty",
+        "optics",
+        "logic"
+    ],
+    "tulsa": [
+        "rough",
+        "brands",
+        "daisy",
+        "tribe"
+    ],
+    "hourly": [
+        "cut",
+        "tobacco",
+        "bennett",
+        "sparc"
+    ],
+    "cut": [
+        "hourly",
+        "firms",
+        "scratch",
+        "cove"
+    ],
+    "sox": [
+        "levy",
+        "printed",
+        "tobacco",
+        "refers"
+    ],
+    "levy": [
+        "sox",
+        "ideal",
+        "voting",
+        "defines"
+    ],
+    "corner": [
+        "aaron",
+        "throw",
+        "expect",
+        "deluxe"
+    ],
+    "muscles": [
+        "printed",
+        "tobacco",
+        "video",
+        "ideal"
+    ],
+    "printed": [
+        "muscles",
+        "sox",
+        "firms",
+        "refers"
+    ],
+    "solaris": [
+        "ship",
+        "jar",
+        "fotos",
+        "six"
+    ],
+    "made": [
+        "six",
+        "gadgets",
+        "fotos",
+        "hints"
+    ],
+    "six": [
+        "made",
+        "suits",
+        "solaris",
+        "defines"
+    ],
+    "ears": [
+        "fotos",
+        "feb",
+        "reward",
+        "malta"
+    ],
+    "costa": [
+        "howard",
+        "reward",
+        "menus",
+        "retail"
+    ],
+    "deluxe": [
+        "pac",
+        "boston",
+        "bennett",
+        "corner",
+        "eng"
+    ],
+    "bend": [
+        "gsm",
+        "spaces",
+        "eng",
+        "video"
+    ],
+    "sec": [
+        "school",
+        "logic",
+        "rat",
+        "basics"
+    ],
+    "pest": [
+        "steve",
+        "bennett",
+        "lending",
+        "throw"
+    ],
+    "brands": [
+        "tulsa",
+        "steve",
+        "rough",
+        "fault"
+    ],
+    "voting": [
+        "levy",
+        "retail",
+        "tion",
+        "malta"
+    ],
+    "reward": [
+        "costa",
+        "malta",
+        "ears",
+        "burns"
+    ],
+    "video": [
+        "aaron",
+        "bend",
+        "jar",
+        "muscles"
+    ],
+    "scratch": [
+        "parents",
+        "sega",
+        "cut",
+        "char"
+    ],
+    "parents": [
+        "scratch",
+        "liberal",
+        "spaces",
+        "rubber"
+    ],
+    "serial": [
+        "forming",
+        "lending",
+        "journal",
+        "silicon"
+    ],
+    "rat": [
+        "retail",
+        "logic",
+        "sec",
+        "refers"
+    ],
+    "retail": [
+        "rat",
+        "voting",
+        "holy",
+        "costa"
+    ],
+    "eng": [
+        "school",
+        "bend",
+        "menus",
+        "deluxe"
+    ],
+    "defines": [
+        "optics",
+        "levy",
+        "logic",
+        "six"
+    ],
+    "cove": [
+        "aaron",
+        "basics",
+        "tion",
+        "cut",
+        "burns"
+    ],
+    "rubber": [
+        "object",
+        "rebate",
+        "parents",
+        "locally"
+    ],
+    "object": [
+        "rubber",
+        "hints",
+        "menus",
+        "rod"
+    ],
+    "kind": [
+        "reid",
+        "holy",
+        "rod",
+        "joint"
+    ],
+    "tobacco": [
+        "hourly",
+        "muscles",
+        "steve",
+        "sox"
+    ],
+    "char": [
+        "wise",
+        "scratch",
+        "float",
+        "ohio"
+    ],
+    "refers": [
+        "cyprus",
+        "printed",
+        "rat",
+        "sox"
+    ],
+    "ohio": [
+        "cancer",
+        "silicon",
+        "fault",
+        "char"
+    ],
+    "sparc": [
+        "suits",
+        "forming",
+        "hourly",
+        "undo"
+    ],
+    "suits": [
+        "sparc",
+        "lending",
+        "export",
+        "six"
+    ],
+    "holy": [
+        "kind",
+        "retail",
+        "expect",
+        "rebate"
+    ],
+    "undo": [
+        "penalty",
+        "joint",
+        "back",
+        "sparc"
+    ],
+    "malta": [
+        "reward",
+        "ears",
+        "framing",
+        "voting"
+    ],
+    "disable": [
+        "geo",
+        "since",
+        "button"
+    ],
+    "logic": [
+        "sec",
+        "rat",
+        "defines",
+        "votes"
+    ],
+    "daisy": [
+        "tulsa",
+        "liberal",
+        "school"
+    ],
+    "liberal": [
+        "indian",
+        "pac",
+        "parents",
+        "daisy"
+    ],
+    "bennett": [
+        "hourly",
+        "pest",
+        "deluxe"
+    ],
+    "rebate": [
+        "rubber",
+        "howard",
+        "holy",
+        "gsm"
+    ],
+    "menus": [
+        "object",
+        "costa",
+        "journal",
+        "eng"
+    ],
+    "tribe": [
+        "export",
+        "pac",
+        "tulsa",
+        "spaces"
+    ],
+    "burns": [
+        "philip",
+        "since",
+        "reward",
+        "cove"
+    ]
+}
